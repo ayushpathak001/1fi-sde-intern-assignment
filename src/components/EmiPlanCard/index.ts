@@ -1,0 +1,1 @@
+export { EmiPlanCard } from './EmiPlanCard';
